@@ -1,5 +1,15 @@
 # @ladle/react
 
+## 3.1.0
+
+### Minor Changes
+
+- [#505](https://github.com/tajo/ladle/pull/505) [`740378d`](https://github.com/tajo/ladle/commit/740378de5cad96f080eb2803794a7f65472634ce) Thanks [@tajo](https://github.com/tajo)! - Add out-of-the-box support for msw and API mocking
+
+### Patch Changes
+
+- [#503](https://github.com/tajo/ladle/pull/503) [`36d3b8d`](https://github.com/tajo/ladle/commit/36d3b8d33da163327d5fcd5932db438e24d03003) Thanks [@fskuteken](https://github.com/fskuteken)! - Switch rotated chevron icon
+
 ## 3.0.0
 
 ### Major Changes
